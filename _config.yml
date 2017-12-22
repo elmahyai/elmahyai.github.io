@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Ahmed Elmahy
 tagline:          'Personal website'
 description:      'Final Year Medical Student, Researcher and Programmer'
-url: 	          / 
+#url: 	          / 
 baseurl: 	  https://ahmedelmahy.github.io/         
 
 author:

@@ -3,7 +3,7 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
+#permalink:        pretty
 
 # Setup
 title:            Ahmed Elmahy
@@ -11,12 +11,10 @@ tagline:          'Personal website'
 description:      'Final Year Medical Student, Researcher and Programmer'
 #url: 	          / 
 baseurl: 	  https://ahmedelmahy.github.io/         
-
+#baseurl:          /
 author:
   name:           'Ahmed Elmahy'
   url:            https://twitter.com/elmahyAG
-logo:             AhmedElmahy.jpg
-avatar:           AhmedElmahy.jpg
 paginate:         5
 
 

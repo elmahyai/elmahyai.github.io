@@ -8,7 +8,7 @@ highlighter:      pygments
 # Setup
 title:            Ahmed Elmahy
 tagline:          'Personal website'
-description:      'Final Year Medical Student, Researcher and Programmer'
+description:      'Doctor, Researcher, Programmer'
 #url: 	          / 
 baseurl: 	  https://ahmedelmahy.github.io/         
 #baseurl:          /

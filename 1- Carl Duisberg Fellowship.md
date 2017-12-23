@@ -5,7 +5,7 @@ title: Won a Carl Duisberg Fellowship
 
 Recently, I won a fellowship from Bayer foundation to work on RNAseq based classification of complex diseases at Institute of computational biology, helmholtz Zentrum, munich, Germany . The fellowship will be from 1 January 2018 till 30 June 2018.
 
-# Why?
+## Why?
 Identification of gene expression patterns associated with complex diseases has revolutionized Medicine. Combined with machine learning algorithms, gene expression analysis improved our
 diagnosis capability dramatically. A popular example is the identification of 50 significant
 genes known as PAM50 for classification of breast cancer which revolutionized breast
@@ -27,7 +27,7 @@ different diseases. Next, we will use these genes to develop an ensemble of clas
 to predict the diagnosis of new cases. Finally, we will provide our classifier in the form
 of a web application to be used for diagnosis and validate it with medical doctors.
 
-# Verifying ?
+## Verifying ?
 Please find attached:
 
 [my fellowship confirmation letter]({{site.url}}/assets/fellowshipLetter.pdf) .

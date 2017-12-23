@@ -27,7 +27,7 @@ http://alexf.shinyapps.io/tarteebEldof3a/
 I will add many graph here to showcase what ggplot2 can do when I have time.
 
 ## animation!
-![gif]({{site.url}}/assets/arabic_ayqunat_al_tatawwur.png)
+![gif]({{site.url}}/assets/animation289finalj.gif)
 
 
 

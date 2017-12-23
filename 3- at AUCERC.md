@@ -5,9 +5,10 @@ title: At AUCERC
 ## What is it, officially? 
 The Alexandria University Cancer Research Cluster (CERC) is the first "prototype" research cluster in Egypt. It was conceptualized to transfer the operational model of an international research organization to Alexandria University, in terms of its scientific and administrative structure, as well as its operating procedures. 
 
-### we are involved with many national and international projects especially after the foundation of the Egyptian Cancer Research Network which represent over 13 Egyptian university! collaborate with us 
-[contact aucerc](http://www.aucerc.com/)
-[contact ecrn](http://www.egycrn.net/)
+### We are involved with many national and international projects especially after the foundation of the Egyptian Cancer Research Network which represent over 13 Egyptian university! collaborate with us 
+[chech our projects at aucerc](http://www.aucerc.com/) and
+[check ecrn](http://www.egycrn.net/).
+
 [contact Dr Noha Awad, executive director of AUCERC](http://aucerc.com/index.php/our-team) at [noha.awad08@yahoo.com](mailto:noha.awad08@yahoo.com)
 
 

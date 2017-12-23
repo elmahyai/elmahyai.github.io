@@ -19,19 +19,22 @@ Designed a script for my Medical school to solve an educational problem. Here on
 
 # R and shiny
 Certainly, I can do better but these are some things I did before. Don't have time to comment.
-https://alexf.shinyapps.io/firstshiny2/
-https://alexf.shinyapps.io/diagnosis_shiny/
-http://alexf.shinyapps.io/tarteebEldof3a/
+[https://alexf.shinyapps.io/firstshiny2/](https://alexf.shinyapps.io/firstshiny2/)
+[https://alexf.shinyapps.io/diagnosis_shiny/](https://alexf.shinyapps.io/diagnosis_shiny/)
+[http://alexf.shinyapps.io/tarteebEldof3a/](http://alexf.shinyapps.io/tarteebEldof3a/)
 
 # R and ggplot2
-I will add many graph here to showcase what ggplot2 can do when I have time.
-
+ggplot2 is used for publication quality graphs. I can use it even for animations
 ![gif]({{site.url}}/assets/animation289finalj.gif)
 
+# R, bash and linux
+So I wrote a program to get the number of pages while I read pdfs with Okular, then plot my progress, build linear model to predict when I will finish and the program runs behind the scenes every few minutes and updates my desktop background with my progress.
+Here on [Github](https://github.com/ahmedelmahy/readingTrack)
 
 
 
 
+I will add more here ...
 
 
 

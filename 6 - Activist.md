@@ -13,6 +13,6 @@ psychological behaviors. My paper entitled "Reaching Egyptian gays using social 
 A comprehensive health study and a framework for future research" got accepted
 recently by Journal of Homosexuality. 
 
-#Publications
+# Publications
 Elmahy, A. G. (2017). Reaching Egyptian Gays Using Social Media: A Comprehensive Health Study and a Framework for Future Research. Journal of homosexuality, 1-10.‏
 

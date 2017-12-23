@@ -24,7 +24,7 @@ Certainly, I can do better but these are some things I did before. Don't have ti
 [http://alexf.shinyapps.io/tarteebEldof3a/](http://alexf.shinyapps.io/tarteebEldof3a/)
 
 # R and ggplot2
-ggplot2 is used for publication quality graphs. I can use it even for animations
+ggplot2 is used for publication quality graphs. I can use it even for [animations](https://github.com/ahmedelmahy/ggplot2-doha)
 ![gif]({{site.url}}/assets/animation289finalj.gif)
 
 # R, bash and linux

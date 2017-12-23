@@ -6,7 +6,7 @@ title: Programmer?
 I didn't have to time to contribute to large projects because I was busy in the past two years. But, here we go. I moved on with my life. I will contribute as soon as possible to scientific software especially Bioconductor and CRAN packages. You can find below few show work I've done for fun.
 
 ## Automating Facebook
-In python, using Selenium, Facebook api, fbchat and many tricks I did, my computer can post, comment, like to my wall and to groups and pages and chat and can add friends  with specific criteria in only 500 lines of code. Here on [Github](https://github.com/ahmedelmahy/Automating-Facebook).
+In python, using Selenium, Facebook api, fbchat and some tricks, my computer can post, comment, like to my wall and to groups and pages and chat and can add friends  with specific criteria in only 500 lines of code. Here on [Github](https://github.com/ahmedelmahy/Automating-Facebook).
 
 
 ## Web scrapping

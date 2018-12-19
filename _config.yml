@@ -2,6 +2,18 @@
 markdown:         redcarpet
 highlighter:      pygments
 
+# 
+defaults:
+  -
+    scope:
+      path: "_slides"  #__
+    values:
+      layout: "iframe"
+
+collections:
+  slides:
+    output: true
+
 # Permalinks
 #permalink:        pretty
 
@@ -9,18 +21,18 @@ highlighter:      pygments
 title:            Ahmed Elmahy
 tagline:          'Personal website'
 description:      'Doctor, Researcher, Programmer'
-#url: 	          / 
-baseurl: 	  https://ahmedelmahy.github.io/         
-#baseurl:          /
+url: 	          / 
+#baseurl: 	  https://ahmedelmahy.github.io/         
+baseurl:          /
 author:
   name:           'Ahmed Elmahy'
   url:            https://twitter.com/elmahyAG
 paginate:         5
 
 
-# Gems
-gems:
+# plugins
+plugins:
   - jekyll-paginate
   - jekyll-gist
 
-
+future: true

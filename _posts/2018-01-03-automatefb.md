@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Automating Facebook Posting messages, photos, videos and chatting using selenium, fb api and web scraping
-tags: web-scraping facebook-api python
+tags: web-scraping python
 ---
 
 

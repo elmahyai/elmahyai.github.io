@@ -2,7 +2,7 @@
 layout: post
 layout: post
 title: Scraping three popular websites in the Middle East
-tags: web-scraping
+tags: web-scraping python
 ---
 
 

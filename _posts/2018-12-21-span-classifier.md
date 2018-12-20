@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spam classifier with R using decision trees, svm, glm, gini index and many others
-tags: R machine-learning
+tags: [R, machine-learning]
 ---
 
 Today, as I grow in the freelancing world, I worked on a spam classifier using R. Code is available on github

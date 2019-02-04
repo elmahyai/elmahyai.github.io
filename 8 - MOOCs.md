@@ -11,6 +11,7 @@ Coursera. Certificate earned on July 15, 2016
 
 duration: Approx. 11 hours to complete
 Suggested: 4 hours/week
+
 description: The course will explain the basic principles for design of randomized clinical trials and how they should be reported. In the first part of the course, students will be introduced to terminology used in clinical trials and the several common designs used for clinical trials, such as parallel and cross-over designs. We will also explain some of the mechanics of clinical trials, like randomization and blinding of treatment. In the second half of the course, we will explain how clinical trials are analyzed and interpreted. Finally, we will review the essential ethical consideration involved in conducting experiments on people.
 
 

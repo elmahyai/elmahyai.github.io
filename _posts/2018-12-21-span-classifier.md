@@ -5,7 +5,7 @@ tags: [R, machine-learning]
 ---
 
 Today, as I grow in the freelancing world, I worked on a spam classifier using R. Code is available on github
-[https://github.com/ahmedelmahy/spam-classifier](https://github.com/ahmedelmahy/spam-classifier)
+[https://github.com/elmahyai/spam-classifier](https://github.com/elmahyai/spam-classifier)
 
 I recieved my first review on freelance.de
 ![spam classifier]({{site.url}}/assets/spam-mail.png)

@@ -9,7 +9,7 @@ Yes I finished six years of Medicine and Surgery. I will be doing the obligatory
 ## Solved a problem
 Designed a script for my medical school to solve an educational problem to
 save hours of manual distribution of students to elective courses. Its code is available
-on [github](https://www.github.com/ahmedelmahy/elective). It has been used in the passed two years until we improve our elective courses system. 
+on [github](https://www.github.com/elmahyai/elective). It has been used in the passed two years until we improve our elective courses system. 
 
 ## Verifying ?
 

@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
 
 # 
@@ -22,7 +22,7 @@ title:            Ahmed Elmahy
 tagline:          'Personal website'
 description:      'Doctor, Researcher, Programmer'
 #url: 	          / 
-baseurl: 	  https://ahmedelmahy.github.io/         
+baseurl: 	        https://elmahyai.github.io/         
 #baseurl:          /
 author:
   name:           'Ahmed Elmahy'

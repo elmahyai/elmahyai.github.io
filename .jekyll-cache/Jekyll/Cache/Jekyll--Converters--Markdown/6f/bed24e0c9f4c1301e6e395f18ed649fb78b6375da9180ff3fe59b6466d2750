@@ -1,0 +1,64 @@
+I".<p>Skills:
+This is an honest description of my skills (please ask me about any of them in the interview)</p>
+<ol>
+  <li>
+    <p>Python: writing scripts, object oriented programming, numpy, pandas, matplotlib, keras, tensorflow (good), opencv (good), nltk, requests, webscraping</p>
+  </li>
+  <li>
+    <p>R: advanced knowledge of writing scripts, statistical analysis, hypothesis testing, good understanding of probability distribution, caret, shiny, ggplot2, linear models, several packages for machine learning such as pca, lasso, svm, RF , integration with C++ (working knowledge).</p>
+  </li>
+  <li>
+    <p>Working knowledge of several programming languages such as Java, C++, Javascript including react and react native.</p>
+  </li>
+  <li>
+    <p>Excellent academic skills : Excellent writing, latex, presentations, researching and understanding scientific research.</p>
+  </li>
+  <li>
+    <p>Data skills: advanced data wrangling, sql (very good), exploration, spliting data, cross validation, advanced understanding of many ml models such as boosting and neural nets + I am very motivated to work with data and machine learning.</p>
+  </li>
+</ol>
+
+<p>Already doing a master in IT, passed five courses at the department  grades (A, A, A-, A-, B), currently working on my thesis on deep learning</p>
+
+<p>A list of 20 online courses I passed with description and duration of each course <a href="https://elmahyai.github.io/8%20-%20MOOCs.html">https://elmahyai.github.io/8%20-%20MOOCs.html</a></p>
+
+<p>Detection of changes in organizations from text using Natural language processing , named entity classifiers (Did for freelancing, skills: python, nlp, nltk) 
+<a href="https://github.com/elmahyai/nlpchanges">https://github.com/elmahyai/nlpchanges</a></p>
+
+<p>Spam classifier with R using decision trees, svm, glm, gini index and many others (Did for freelancing, skills: R, nlp, classification)
+<a href="https://github.com/elmahyai/spam-classifier">https://github.com/elmahyai/spam-classifier</a></p>
+
+<p>Scraping sec.gov using public proxies  (Did for freelancing, skills: python, webscraping, requests)
+<a href="https://github.com/elmahyai/scraping-sec.gov">https://github.com/elmahyai/scraping-sec.gov</a></p>
+
+<p>An R package for feature selection with RNASeq  and a web application using shiny to biologists to do classification without programming skills (The project required more than six months, so this a preliminary version, not well documented)
+<a href="https://github.com/elmahyai/RNASeqclassifier1">https://github.com/elmahyai/RNASeqclassifier1</a></p>
+
+<p><a href="https://github.com/elmahyai/RNASeqClassifier">https://github.com/elmahyai/RNASeqClassifier</a>
+<a href="https://github.com/elmahyai/eczemalymphoma">https://github.com/elmahyai/eczemalymphoma</a></p>
+
+<p><a href="https://alexf.shinyapps.io/progressReport/">https://alexf.shinyapps.io/progressReport/</a></p>
+
+<p>Automating Facebook Posting messages, photos, videos and chatting using selenium, fb api and web scraping  Project worked on before for fun to automate facebook not complete but works and showcase my skills on using selenium, css selectors, xpath</p>
+
+<p><a href="https://github.com/elmahyai/Automating-Facebook">https://github.com/elmahyai/Automating-Facebook</a></p>
+
+<p>Scraping three popular websites in the Middle East. In this project, I showcase my ability to scrape the web using python. I scraped three popular websites in the Middle East: youm7.com and islamweb.com and alexu.edu.eg</p>
+
+<p><a href="https://github.com/elmahyai/webscraping_showcase">https://github.com/elmahyai/webscraping_showcase</a></p>
+
+<p>This script is written to distribute students at Faculty of medicine, Alexandria university to their electives based of their choices with priority to students with higher grades (Already used for two years now)</p>
+
+<p><a href="https://github.com/elmahyai/elective">https://github.com/elmahyai/elective</a></p>
+
+<p>Additional programs wrote for fun:</p>
+
+<p>Some code I wrote to bulk send my cv to many jobs
+<a href="https://github.com/elmahyai/Bulk-Email-Sender-with-attachment">https://github.com/elmahyai/Bulk-Email-Sender-with-attachment</a></p>
+
+<p>Some code I wrote to extract academic emails from papaers and spam them (Just a proof of concept not intended for real usage)
+<a href="https://github.com/elmahyai/jobspammer">https://github.com/elmahyai/jobspammer</a></p>
+
+<p>Doing simple animation with ggplot2 package in R (I already can plot almost all common graph with R, I tried to move on for animation just for fun)
+<a href="https://github.com/elmahyai/ggplot2-animation">https://github.com/elmahyai/ggplot2-animation</a></p>
+:ET

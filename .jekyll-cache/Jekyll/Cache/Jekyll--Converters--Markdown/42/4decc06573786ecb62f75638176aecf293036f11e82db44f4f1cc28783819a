@@ -1,0 +1,28 @@
+I"�<p>I didn’t have time to contribute to large projects because I was busy in the past two years. But, here we go. I moved on with my life. I will contribute as soon as possible to scientific software especially Bioconductor and CRAN packages. You can find below few show work I’ve done for fun.</p>
+
+<h2 id="automating-facebook">Automating Facebook</h2>
+<p>In python, using Selenium, Facebook api, fbchat and some tricks, my computer can post, comment, like to my wall and to groups and pages and chat and can add friends  with specific criteria in only 500 lines of code. Here on <a href="https://github.com/elmahyai/Automating-Facebook">Github</a>.</p>
+
+<h2 id="web-scrapping">Web scrapping</h2>
+<p>In python, in few lines of code, I could scrape three popular arabic website to get news, medical questions and answers for further analysis. Here on <a href="https://github.com/elmahyai/webscraping_showcase">Github</a></p>
+
+<h2 id="r-and-gtk">R and Gtk</h2>
+<p>Designed a script for my Medical school to solve an educational problem. Here on <a href="https://github.com/elmahyai/elective">Github</a></p>
+
+<h2 id="r-and-shiny">R and shiny</h2>
+<p>Of course, I can do better but these are some things I did before. Don’t have time to comment.
+<a href="https://alexf.shinyapps.io/firstshiny2/">https://alexf.shinyapps.io/firstshiny2/</a>
+<a href="https://alexf.shinyapps.io/diagnosis_shiny/">https://alexf.shinyapps.io/diagnosis_shiny/</a>
+<a href="http://alexf.shinyapps.io/tarteebEldof3a/">http://alexf.shinyapps.io/tarteebEldof3a/</a></p>
+
+<h2 id="r-and-ggplot2">R and ggplot2</h2>
+<p>ggplot2 is used for publication quality graphs. I can use it even for <a href="https://github.com/elmahyai/ggplot2-doha">animations</a>
+<img src="http://localhost:4000/assets/animation289finalj.gif" alt="gif" /></p>
+
+<h2 id="r-bash-and-linux">R, bash and linux</h2>
+<p>So I wrote a program to get the number of pages while I read pdfs with Okular, then plot my progress, build linear model to predict when I will finish and the program runs behind the scenes every few minutes and updates my desktop background with my progress.
+Here on <a href="https://github.com/elmahyai/readingTrack">Github</a></p>
+
+<p>I will add more here …</p>
+
+:ET
